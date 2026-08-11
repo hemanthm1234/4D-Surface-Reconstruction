@@ -26,6 +26,8 @@
 
 # 1. DySurface: Consistent 4D Surface Reconstruction via Bridging Explicit Gaussians and Implicit Functions (arXiv 2026)
 
+![Architecture](architecture_diagrams/ArXiv2026_DySurface_arch_1.png)
+
 ### 1. Metadata
 *   **Paper Title:** DySurface: Consistent 4D Surface Reconstruction via Bridging Explicit Gaussians and Implicit Functions
 *   **Authors & Lab:** Minje Kim, Younghyun Noh, Jaesoon Kim, Tae-Kyun Kim (KAIST, KT, Sungkyunkwan University)
@@ -52,6 +54,8 @@
 
 # 2. 4C4D: 4 Camera 4D Gaussian Splatting (CVPR 2026)
 
+![Architecture](architecture_diagrams/CVPR2026_4C4D_arch_2.png)
+
 ### 1. Metadata
 *   **Paper Title:** 4C4D: 4 Camera 4D Gaussian Splatting
 *   **Authors & Lab:** Junsheng Zhou, Zhifan Yang, Liang Han, Wenyuan Zhang, Kanle Shi, Shenkun Xu, Yu-Shen Liu (School of Software, Tsinghua University & Kuaishou Technology)
@@ -76,6 +80,8 @@
 ---
 
 # 3. 4DSurf: High-Fidelity Dynamic Scene Surface Reconstruction (CVPR 2026)
+
+![Architecture](architecture_diagrams/CVPR2026_4DSurf_arch_2.png)
 
 ### 1. Metadata
 *   **Paper Title:** 4DSurf: High-Fidelity Dynamic Scene Surface Reconstruction
@@ -103,6 +109,9 @@
 
 # 4. ReconDrive: Fast Feed-Forward 4D Gaussian Splatting for Autonomous Driving Scene Reconstruction (arXiv 2026)
 
+![Architecture](architecture_diagrams/ArXiv2026_ReconDrive_arch_1.png)
+![Architecture](architecture_diagrams/ArXiv2026_ReconDrive_arch_3.png)
+
 ### 1. Metadata
 *   **Paper Title:** ReconDrive: Fast Feed-Forward 4D Gaussian Splatting for Autonomous Driving Scene Reconstruction
 *   **Authors & Lab:** Haibao Yu, Kuntao Xiao, Jiahang Wang, Ruiyang Hao, Yuxin Huang, Guoran Hu, Haifang Qin, Bowen Jing, Yuntian Bo, Ping Luo (Tuojing Intelligence, HKU, KCL, USyd, MBZUAI)
@@ -127,6 +136,8 @@
 
 ---
 # 5. Fast and Robust Deformable 3D Gaussian Splatting (TVCG 2026)
+
+![Architecture](architecture_diagrams/TVCG2026_Fast_Robust_Deformable_3DGS_arch_1.png)
 
 ### 1. Metadata
 *   **Paper Title:** Fast and Robust Deformable 3D Gaussian Splatting
@@ -154,6 +165,8 @@
 
 # 6. Sparse4DGS: 4D Gaussian Splatting for Sparse-Frame Dynamic Scene Reconstruction (AAAI 2026)
 
+![Architecture](architecture_diagrams/AAAI2026_Sparse4DGS_arch_1.png)
+
 ### 1. Metadata
 *   **Paper Title:** Sparse4DGS: 4D Gaussian Splatting for Sparse-Frame Dynamic Scene Reconstruction
 *   **Authors & Lab:** Changyue Shi, Chuxiao Yang, Xinyuan Hu, Minghao Chen, Wenwen Pan, Yan Yang, Jiajun Ding, Zhou Yu, Jun Yu (Hangzhou Dianzi University, Peking University, Harbin Institute of Technology)
@@ -180,6 +193,8 @@
 
 # 7. TextMesh4D: Zero-shot Text-to-4D Mesh Generation (ICML 2026)
 
+![Architecture](architecture_diagrams/ICML2026_TextMesh4D_arch_1.png)
+
 ### 1. Metadata
 *   **Paper Title:** TextMesh4D: Zero-shot Text-to-4D Mesh Generation
 *   **Authors & Lab:** Sisi Dai, Xinxin Su, Kai Xu (National University of Defense Technology, Chinese Academy of Sciences)
@@ -204,6 +219,8 @@
 
 ---
 # 8. MAPo: Motion-Aware Partitioning of Deformable 3D Gaussian Splatting for High-Fidelity Dynamic Scene Reconstruction (CVPR 2026)
+
+![Architecture](architecture_diagrams/CVPR2026_MAPo_arch_2.png)
 
 ### 1. Metadata
 *   **Paper Title:** MAPo: Motion-Aware Partitioning of Deformable 3D Gaussian Splatting for High-Fidelity Dynamic Scene Reconstruction
@@ -232,6 +249,8 @@
 
 # 9. SpeeDe3DGS: Speedy Deformable 3D Gaussian Splatting with Temporal Pruning and Motion Grouping (CVPR 2026)
 
+![Architecture](architecture_diagrams/CVPR2026_SpeeDe3DGS_arch_4.png)
+
 ### 1. Metadata
 *   **Paper Title:** SpeeDe3DGS: Speedy Deformable 3D Gaussian Splatting with Temporal Pruning and Motion Grouping
 *   **Authors & Lab:** Allen Tu, Haiyang Ying, Alex Hanson, Yonghan Lee, Tom Goldstein, Matthias Zwicker (University of Maryland, College Park)
@@ -257,6 +276,8 @@
 ---
 
 # 10. 4D Gaussian Splatting SLAM (ICCV 2025)
+
+![Architecture](architecture_diagrams/ICCV2025_4D_GS_SLAM_arch_1.png)
 
 ### 1. Metadata
 *   **Paper Title:** 4D Gaussian Splatting SLAM
@@ -306,6 +327,9 @@
 
 # 12. DeSiRe-GS: 4D Street Gaussians for Static-Dynamic Decomposition and Surface Reconstruction for Urban Driving Scenes (CVPR 2025)
 
+![Architecture](architecture_diagrams/CVPR2025_DeSiRe-GS_arch_1.png)
+![Architecture](architecture_diagrams/CVPR2025_DeSiRe-GS_arch_2.png)
+
 ### 1. Metadata
 *   **Paper Title:** DeSiRe-GS: 4D Street Gaussians for Static-Dynamic Decomposition and Surface Reconstruction for Urban Driving Scenes
 *   **Authors & Lab:** Chensheng Peng, Chengwei Zhang, Yixiao Wang, Chenfeng Xu, Yichen Xie, Wenzhao Zheng, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan (UC Berkeley)
@@ -331,6 +355,8 @@
 ---
 
 # 13. DynaSurfGS: Dynamic Surface Reconstruction with Planar-based Gaussian Splatting (arXiv 2024)
+
+![Architecture](architecture_diagrams/ArXiv2024_DynaSurfGS_arch_2.png)
 
 ### 1. Metadata
 *   **Paper Title:** DynaSurfGS: Dynamic Surface Reconstruction with Planar-based Gaussian Splatting
@@ -358,6 +384,10 @@
 
 # 14. H3D-DGS: Exploring Heterogeneous 3D Motion Representation for Deformable 3D Gaussian Splatting (NeurIPS 2025)
 
+![Architecture](architecture_diagrams/NeurIPS2025_H3D-DGS_arch_1.png)
+![Architecture](architecture_diagrams/NeurIPS2025_H3D-DGS_arch_2.png)
+![Architecture](architecture_diagrams/NeurIPS2025_H3D-DGS_arch_3.png)
+
 ### 1. Metadata
 *   **Paper Title:** H3D-DGS: Exploring Heterogeneous 3D Motion Representation for Deformable 3D Gaussian Splatting
 *   **Authors & Lab:** Bing He, Yunuo Chen, Guo Lu, Qi Wang, Qunshan Gu, Rong Xie, Li Song, Wenjun Zhang (Shanghai Jiao Tong University, Alibaba Group)
@@ -382,6 +412,14 @@
 ---
 
 # 15. Motion2VecSets: 4D Latent Vector Set Diffusion for Non-rigid Shape Reconstruction and Tracking (CVPR 2024)
+
+![Architecture](architecture_diagrams/CVPR2024_Motion2VecSets_arch_1.png)
+
+| ![Architecture 2](architecture_diagrams/CVPR2024_Motion2VecSets_arch_2.png) | ![Architecture 3](architecture_diagrams/CVPR2024_Motion2VecSets_arch_3.png) |
+|:---:|:---:|
+
+![Architecture](architecture_diagrams/CVPR2024_Motion2VecSets_arch_5.png)
+![Architecture](architecture_diagrams/CVPR2024_Motion2VecSets_arch_6.png)
 
 ### 1. Metadata
 *   **Paper Title:** Motion2VecSets: 4D Latent Vector Set Diffusion for Non-rigid Shape Reconstruction and Tracking
@@ -409,6 +447,8 @@
 
 # 16. 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering (CVPR 2024)
 
+![Architecture](architecture_diagrams/CVPR2024_4D_Gaussian_Splatting_Real_Time_arch_2.png)
+
 ### 1. Metadata
 *   **Paper Title:** 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
 *   **Authors & Lab:** Guanjun Wu, Taoran Yi, Jiemin Fang, Lingxi Xie, Xiaopeng Zhang, Wei Wei, Wenyu Liu, Qi Tian, Xinggang Wang (Huazhong University of Science and Technology, Huawei Inc.)
@@ -435,6 +475,9 @@
 ---
 
 # 17. Unbiased 4D: Monocular 4D Reconstruction with a Neural Deformation Model (CVPR 2023)
+
+![Architecture](architecture_diagrams/CVPR2023_Unbiased_4D_arch_2.png)
+![Architecture](architecture_diagrams/CVPR2023_Unbiased_4D_arch_5.png)
 
 ### 1. Metadata
 *   **Paper Title:** Unbiased 4D: Monocular 4D Reconstruction with a Neural Deformation Model
